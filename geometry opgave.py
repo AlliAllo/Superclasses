@@ -1,10 +1,7 @@
 import turtle
 import math
-import numpy as np
 import random
-import time
 from tkinter import *
-from tkinter import messagebox
 
 figurer = []
 
